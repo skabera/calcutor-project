@@ -1,5 +1,5 @@
-![Uploading Screenshot (887).png…]()
 ![Screenshot (888)](https://github.com/skabera/calcutor-project/assets/167980694/a8a72437-56d6-4046-8622-57c0bd9053fb)
 ![Screenshot (890)](https://github.com/skabera/calcutor-project/assets/167980694/88d9c225-3e2f-447f-a963-b13e5266391c)
 ![Screenshot (891)](https://github.com/skabera/calcutor-project/assets/167980694/b9850a40-a2a8-4b28-9e9c-1c41e3368e68)
 ![Screenshot (889)](https://github.com/skabera/calcutor-project/assets/167980694/d76df51e-538a-4570-9078-b58d52a7f49c)
+![Screenshot (887)](https://github.com/skabera/calcutor-project/assets/167980694/ecc6b747-a163-4500-9261-655c9fbc1df1)
