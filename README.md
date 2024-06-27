@@ -1,16 +1,5 @@
-# calcutor_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading Screenshot (887).png…]()
+![Screenshot (888)](https://github.com/skabera/calcutor-project/assets/167980694/a8a72437-56d6-4046-8622-57c0bd9053fb)
+![Screenshot (890)](https://github.com/skabera/calcutor-project/assets/167980694/88d9c225-3e2f-447f-a963-b13e5266391c)
+![Screenshot (891)](https://github.com/skabera/calcutor-project/assets/167980694/b9850a40-a2a8-4b28-9e9c-1c41e3368e68)
+![Screenshot (889)](https://github.com/skabera/calcutor-project/assets/167980694/d76df51e-538a-4570-9078-b58d52a7f49c)
